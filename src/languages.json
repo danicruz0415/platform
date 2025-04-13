@@ -9,4 +9,9 @@
     "class": "locale-ar",
     "dir": "rtl"
   }
+  "es": {
+    "name": "Español",
+    "class": "locale-es",
+    "dir": "ltr"
+  }
 }
